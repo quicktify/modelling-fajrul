@@ -1,0 +1,9 @@
+numpy
+pandas==2.0.3
+matplotlib
+seaborn
+tqdm
+swifter
+Sastrawi
+scikit-learn
+torch 
